@@ -1,5 +1,5 @@
-const dotenv=require("dotenv");
-dotenv.config();
+
+
 const moongose=require("mongoose");
 
 const mongoDb=process.env.MONGO_DB;

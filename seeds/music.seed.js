@@ -2,8 +2,8 @@
 const mongoose = require('mongoose');
 const Music = require('../app/api/models/music');
 
-const dotenv=require('dotenv');
-dotenv.config();
+
+
 
 const music = [
   {
